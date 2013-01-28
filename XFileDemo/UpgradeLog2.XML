@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XFileDemo">
+</Property><Property Name="Solution File" Value="C:\Users\darrell\Documents\Visual Studio 2010\Projects\XFileDemo\XFileDemo\XFileDemo.sln">
+</Property><Property Name="Date" Value="Friday, January 11, 2013">
+</Property><Property Name="Time" Value="12:46 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="XFileDemo" Source="XFileDemo.vcproj" Description="Converting project file 'C:\Users\darrell\Documents\Visual Studio 2010\Projects\XFileDemo\XFileDemo\XFileDemo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="XFileDemo" Source="XFileDemo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="XFileDemo" Source="XFileDemo.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="XFileDemo" Source="XFileDemo.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="XFileDemo" Source="XFileDemo.vcproj" Description="Done converting to new project file 'C:\Users\darrell\Documents\Visual Studio 2010\Projects\XFileDemo\XFileDemo\XFileDemo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="XFileDemo" Source="XFileDemo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XFileDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XFileDemo.sln" Description="Converted">
+</Event></UpgradeLog>
